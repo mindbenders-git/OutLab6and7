@@ -26,4 +26,4 @@ https://matplotlib.org/api/_as_gen/matplotlib.pyplot.close.html - Q5
 https://academic.mu.edu/phys/matthysd/web226/Lab01.htm - Q6
 
 Git Username - mindbenders-git
-Git Link - https://github.com/mindbenders-git/OutLab6and7
+Git Link - https://github.com/mindbenders-git/Outlab6and7
